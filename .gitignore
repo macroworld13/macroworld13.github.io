@@ -1,8 +1,7 @@
 node_modules/
+package-lock.json
 public/
 .deploy_git/
 db.json
-package-lock.json
-themes/butterfly/.git
-themes/keep/.git
+*.log
 
